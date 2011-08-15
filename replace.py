@@ -19,14 +19,14 @@ cobalt_colors = {
     "pale_grey"        : "#eeeeee",
     "steel_grey"       : "#333333",
     "spring_green"     : "#3ad900",
-    "sea_green"        : "#00BF8C",
+    "sea_green"        : "#00bf8c",
     "light_grey"       : "#cccccc",
     "dark_red"         : "#990000",
     "bluish_grey"      : "#777777",
     "steelblue3"       : "#4f94cd",
     # ADDTIONAL COLORS
-    "light_black_blue" : "#00264D",
-    "blacker_blue"     : "#000A14"
+    "light_black_blue" : "#00264d",
+    "blacker_blue"     : "#000a14"
         }
 
 def replace(source_file, output_file, colors):

@@ -36,9 +36,9 @@ hi  Directory       guifg=#1e90ff   guibg=bg        gui=NONE
 hi  ErrorMsg        guifg=#ffffff   guibg=#990000   gui=bold
 "hi  FoldColumn      guifg=#ffffff   guibg=#000d1a   gui=bold
 "hi  Folded          guifg=#ffffff   guibg=#000d1a   gui=NONE
-hi  FoldColumn      guifg=#ffffff   guibg=#00264D   gui=bold
-hi  Folded          guifg=#ffffff   guibg=#00264D   gui=NONE
-hi  IncSearch       guifg=#ffffff   guibg=#00BF8C   gui=NONE
+hi  FoldColumn      guifg=#ffffff   guibg=#00264d   gui=bold
+hi  Folded          guifg=#ffffff   guibg=#00264d   gui=NONE
+hi  IncSearch       guifg=#ffffff   guibg=#00bf8c   gui=NONE
 hi  LineNr          guifg=#0065bf   guibg=#000d1a   gui=NONE
 hi  MatchParen      guifg=NONE      guibg=#4f94cd   gui=NONE
 hi  ModeMsg         guifg=#ffee80   guibg=NONE      gui=bold
@@ -49,20 +49,20 @@ hi  PmenuSel        guifg=#c0c8cf   guibg=#0000ff   gui=bold
 hi  PmenuSbar       guifg=#ffffff   guibg=#c1cdc1   gui=NONE
 hi  PmenuThumb      guifg=#ffffff   guibg=#838b83   gui=NONE
 hi  Question        guifg=#00ee00   guibg=NONE      gui=bold
-hi  Search          guifg=#ffffff   guibg=#00BF8C   gui=NONE
+hi  Search          guifg=#ffffff   guibg=#00bf8c   gui=NONE
 hi  SignColumn      guifg=#ffffff   guibg=#cdcdb4   gui=NONE
 hi  SpecialKey      guifg=#777777   guibg=NONE      gui=NONE
 hi  SpellBad        guisp=#ee2c2c   gui=undercurl
 hi  SpellCap        guisp=#0000ff   gui=undercurl
 hi  SpellLocal      guisp=#008b8b   gui=undercurl
 hi  SpellRare       guisp=#ff00ff   gui=undercurl
-hi  StatusLine      guifg=#ffffff   guibg=#000A14   gui=NONE
-hi  StatusLineNC    guifg=#0065bf   guibg=#000A14   gui=italic
+hi  StatusLine      guifg=#ffffff   guibg=#000a14   gui=NONE
+hi  StatusLineNC    guifg=#0065bf   guibg=#000a14   gui=italic
 hi  TabLine         guifg=fg        guibg=#d3d3d3   gui=underline
 hi  TabLineFill     guifg=fg        guibg=bg        gui=reverse
 hi  TabLineSel      guifg=fg        guibg=bg        gui=bold
 hi  Title           guifg=#009acd   guibg=bg        gui=bold
-hi  VertSplit       guifg=#000d1a    guibg=#000A14
+hi  VertSplit       guifg=#000d1a    guibg=#000a14
 hi  Visual          guifg=#ffffff   guibg=#0088ff   gui=NONE
 hi  WarningMsg      guifg=#ee9a00   guibg=bg        gui=NONE
 hi  WildMenu        guifg=#000000   guibg=#87ceeb   gui=NONE
