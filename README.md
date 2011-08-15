@@ -19,7 +19,7 @@ Gedit-Colorschemes-for-Vim depends on the following packages:
 Compiling and Installing
 ---------------------
 
-The colorschemes are "compiled" by the means of the ```replace.py`` script in the Gedit-Colorschemes-for-Vim soure folder. The script basically reads in the colorscheme source file (e.g., ```cobalt-kunal-src.vim```) and replaces the colorschemes names in the file (e.g., ```light_grey```) and replaces them with the appropriate hexadeciaml values. Both the color names and the hexadeciaml values are defined in the ```replace.py``` script. For those just browsing the repository, pre-compiled colorschemes are located in the ```build/``` directory
+The colorschemes are "compiled" by the means of the ```replace.py``` script in the Gedit-Colorschemes-for-Vim soure folder. The script basically reads in the colorscheme source file (e.g., ```cobalt-kunal-src.vim```) and replaces the colorschemes names in the file (e.g., ```light_grey```) and replaces them with the appropriate hexadeciaml values. Both the color names and the hexadeciaml values are defined in the ```replace.py``` script. For those just browsing the repository, pre-compiled colorschemes are located in the ```build/``` directory
 
 To "compile" all the colorschemes source files, run make like so:
 
