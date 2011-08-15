@@ -23,15 +23,13 @@ The colorschemes are "compiled" by the means of the ```replace.py``` script in t
 
 To "compile" all the colorschemes source files, run make like so:
 
-```$ cd Gedit-Colorschemes-for-Vim/
-   $ make
-```
+    $ cd Gedit-Colorschemes-for-Vim/
+    $ make
 
 or to "compile" _and_ install all the colorschemes to your ```~/.vim/``` directory:
 
-```$ cd Gedit-Colorschemes-for-Vim/
-   $ make install
-```
+    $ cd Gedit-Colorschemes-for-Vim/
+    $ make install
 
 Contributing
 ------------
